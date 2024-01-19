@@ -1,1 +1,1 @@
-# faralavr-personal
+# https://vfarala.github.io/faralavr-personal/
